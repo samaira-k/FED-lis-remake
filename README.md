@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Samaira Kumar
 
   #### Je startniveau:
-  blauw/rood
+  rood
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
